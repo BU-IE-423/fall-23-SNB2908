@@ -1,4 +1,4 @@
-Welcome to my Github page.
+Welcome to my progress journal for the Quality Engineering'23
 
 Student ID: 2019402045
 
