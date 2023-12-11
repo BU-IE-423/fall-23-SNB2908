@@ -2,6 +2,19 @@ Welcome to my progress journal for the Quality Engineering'23
 
 Student ID: 2019402045
 
+
+Below I will provide the necessary links for the second Part of our Project.
+
+[Link to the .html file of our work on the Github Repository for Part 2](files/IE423 Project Part 2/Task 1_son.html)
+
+
+[Link to the .ipynb file on the Github Repository for the second part of our project](https://github.com/BU-IE-423/fall-23-SNB2908/blob/main/files/IE423%20Project%20Part%202/Task%201_son%20(1).ipynb)
+
+
+
+
+
+
 Below I will provide the necessary links for the first Part of our Project.
 
 [Link to the .html file of our work on the Github Repository](files/Project_part1.html)
