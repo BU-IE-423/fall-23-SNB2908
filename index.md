@@ -3,6 +3,27 @@ Welcome to my progress journal for the Quality Engineering'23
 Student ID: 2019402045
 
 
+
+
+The early submisson of the project part 3 has been provided to İlayda Çelenk via e-mail with a Google Docs file on 9th January.
+
+Below I will provide the necessary links for the third part of the project.
+
+
+[Link to the Project Part 3 Report .pdf file](files/Project Part 3 Github/IE423 Project Part 3 Report - Group 2.pdf)
+
+
+[Link to the .html file of our work on the Github Repository for Part 3](files/Project Part 3 Github/IE423 Project Part 3.html)
+
+
+[Link to the .ipynb file on the Github Repository for the third part of our project](https://github.com/BU-IE-423/fall-23-SNB2908/blob/b7fbc05afc41f2f45a185919b88497976dbc5de7/files/Project%20Part%203%20Github/Jupyter%20Notebook%20and%20images/IE423%20Project%20Part%203.ipynb)
+
+
+
+
+
+
+
 Below I will provide the necessary links for the second Part of our Project.
 
 
